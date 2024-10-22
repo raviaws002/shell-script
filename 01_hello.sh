@@ -6,3 +6,4 @@
 # this is comment
 
 echo "hello shell script"
+echo "my name is ravi"
