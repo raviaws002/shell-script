@@ -7,3 +7,4 @@
 
 echo "hello shell script"
 echo "my name is ravi"
+echo "I am a Software engineer Trainee"
